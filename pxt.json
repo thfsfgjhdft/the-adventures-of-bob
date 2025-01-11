@@ -1,0 +1,24 @@
+{
+    "name": "the-adventures-of-bob",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "README.md",
+        "manifest.json",
+        "main.blocks",
+        "main.ts",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.58",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
